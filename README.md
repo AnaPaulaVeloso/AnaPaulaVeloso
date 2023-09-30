@@ -1,5 +1,5 @@
 
-<p align="center">Confira meu repositório de ideias e inovação❤️. <br><br> "Aprimorando continuamente minhas habilidades de programação."</p>&nbsp;
+<p align="center">Confira meus repositórios e projetos. <br><br> "Aprimorando continuamente minhas habilidades de programação."</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=rafaelalexandrino&theme=radical&mode=weekly" />
